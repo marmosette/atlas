@@ -1,0 +1,10 @@
+node_modules
+dist
+.brojs
+.npm-cache
+.tmp
+.env
+.env.local
+*.log
+.DS_Store
+screenshots
